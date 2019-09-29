@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">withyou</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_about">关于</string>
+    <string name="action_add">添加</string>
+
+    <string-array name="nav_array">
+        <item>所有的事</item>
+        <item>已完成的</item>
+        <item>待完成的</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about">关于</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_new_thing">新的事</string>
+    <string name="declaration">因为要一起完成的事情被添加之后默认是不能更改和删除的,请慎重![握拳]</string>
+    <string name="title_new_thing">添加一件新的事</string>
+
+
+    <string-array name="thing_array">
+        <item>一起站在镜子面前刷牙</item>
+        <item>一起看场好电影</item>
+        <item>一起做一顿饭</item>
+        <item>一起牵手散步</item>
+        <item>一起去旅行</item>
+        <item>一起去看日出</item>
+        <item>一起去理发</item>
+        <item>一起逛菜市场 你讨价还价 菜我拎</item>
+        <item>一起养一只小动物</item>
+        <item>一起听场演唱会</item>
+
+        <item>一起堆雪人 打雪仗</item>
+        <item>给对方洗头并慢慢吹干</item>
+        <item>一起做泡面吃</item>
+        <item>给对方起一个专用外号</item>
+        <item>偷偷买回你想买却没舍得买的东西</item>
+        <item>冬天的时候一起在家里吃火锅</item>
+        <item>一起锻炼身体</item>
+        <item>送对方惊喜</item>
+        <item>一起喝醉</item>
+        <item>永远不说谢谢</item>
+
+        <item>一起选床单和窗帘的颜色</item>
+        <item>吃完饭一起刷碗</item>
+        <item>下雨天同撑一把伞</item>
+        <item>一起深夜观星</item>
+        <item>穿情侣装逛街</item>
+        <item>一人一半，比赛啃西瓜</item>
+        <item>为你剪指甲</item>
+        <item>一起吃路边摊</item>
+        <item>一起买一张彩票</item>
+        <item>约定可以生气但好了后要讲出来</item>
+
+        <item>给对方父母买礼物</item>
+        <item>给对方写一封信藏在屋子某个角落</item>
+        <item>一起打扑克</item>
+        <item>一起包一次饺子</item>
+        <item>在朋友面前大方的介绍我</item>
+
+
+
+    </string-array>
+
+</resources>
